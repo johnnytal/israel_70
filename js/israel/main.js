@@ -11,7 +11,7 @@ var gameMain = function(game){
     musicButtons = [];
     musicText = [];
     textsMusicText = [ // text for each music button
-    	'Techno', 'Country', 'March'
+    	'Techno', 'Klezmer', 'March'
     ];
     MUSIC_BUTTONS_N = textsMusicText.length;
 };
